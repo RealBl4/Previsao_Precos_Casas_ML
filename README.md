@@ -1,6 +1,10 @@
 
 # 🏠 Previsão de Preços de Casas - Machine Learning
 
+> 🚀 **[CLIQUE AQUI PARA VER O PROJETO COMPLETO COM GRÁFICOS INTERATIVOS](https://nbviewer.org/github/RealBl4/Previsao_Precos_Casas_ML/blob/main/projeto_previsao.ipynb)**
+
+Este projeto utiliza **Regressão Linear** para prever o preço de venda de imóveis...
+
 Este projeto utiliza **Regressão Linear** para prever o preço de venda de imóveis com base em características estruturais e localização. O dataset utilizado é o famoso *Ames Housing Dataset* (Kaggle).
 
 ## 🚀 Resultados
